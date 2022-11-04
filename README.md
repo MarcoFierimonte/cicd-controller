@@ -8,7 +8,7 @@ your applications (microservices) and store most important details on Atlas Mong
 - Allow to search details by project name, project environment,status, etc.
 
 ### Example of Front-End developed with ReactJS
-![](C:\Users\a472522\git\00_personal-stuff\goland-projects\cicd-controller\cicd-controller-front-end.png)
+![](https://github.com/MarcoFierimonte/cicd-controller/blob/main/cicd-controller-front-end.png)
 
 
 ### Build using Golang
